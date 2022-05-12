@@ -4,7 +4,7 @@
 help me in that goal.
 - Programming languages I know: C#,C++,C,SQL
 - I have basic knowledge about: Html,Javascript,CSS,Python
-- Technologies and tools I've used: Linux,Docker,Github,Visual Studio 2017/2019/2022,MySQL
+- Technologies and tools I've used: Linux,Docker,Github,Visual Studio 2017/2019/2022,Visual Studio Code,MySQL
 - My english level: C1
 
 I'm a fast learner and I'm pretty good at problem solving.
