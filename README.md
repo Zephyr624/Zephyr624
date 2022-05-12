@@ -7,7 +7,8 @@ help me in that goal.
 - Technologies and tools I've used: Linux,Docker,Github,Visual Studio 2017/2019/2022,MySQL
 - English level C1
 
-Apart from programming currently my main hobby is playing sports inluding but not limited to basketball,badminton,table tennis.
+I'm a fast learner and I'm pretty good at problem solving.
+Apart from programming currently my main hobby is playing sports inluding but not limited to basketball,badminton and table tennis.
 
 <!---
 Zephyr624/Zephyr624 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
